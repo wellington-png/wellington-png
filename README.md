@@ -1,4 +1,13 @@
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Azzar</h1>
+<h4 align="center">a freelance developer an also an engineering students at yogyakarta state university</h4>
+</div>
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <details>
   <summary>☎️ contact me</summary>
@@ -33,53 +42,22 @@
 </div>
 </details>
 
-<details>
-  <summary>🧮 about</summary>
-<div>
-<h2 align="center">🧮 About this Account</h2>
- <p align="center">
-  <a href="github.com/wellington-png" target="blank"><img align="center" 
-     alt="spying counter" /></a>
-  <a href="github.com/wellington-png" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/years/1999AZZAR/?style=for-the-badge&color=27a4fb&logo=github&label=Account+Age"
-     alt="account age" /></a>
-  </p>
-  <p align="center">
-  <a href="github.com/wellington-png" target="blank"><img align="center" 
-     alt="updated" /></a>
-  <a href="github.com/wellington-png" target="blank"><img align="center" 
-     src="https://badges.pufler.dev/repos/wellington-png/?style=for-the-badge&color=251ee7&logo=github&label=Public+Repos"
-     alt="repos" /></a>
- </p>
-</div>
-</details>
-
-
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/wellington-png/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-png&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="wellington-png :: Top Langs" /></a>
+          <a href="https://github.com/1999AZZAR/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/wellington-png/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wellington-png&show_icons=true&theme=gruvbox&hide_border=true" />
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=wellington-png&theme=gruvbox&hide_border=true" />
+          <a href="https://github.com/1999AZZAR/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
           </a>
        </p>
      <br>
   </div>    
 </details>
 
-<details>
-  <summary>📈 Activity Graph</summary>
-  <br/>
-  <h2 align="center"> my current activity </h2>
-</details>
-
-------
-Credit: [1999azzar](https://github.com/1999azzar)
-Last Edited on: 01/06/2022
