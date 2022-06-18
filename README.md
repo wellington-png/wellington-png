@@ -38,7 +38,7 @@
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington-png&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=wellington-png&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=wellington-png&theme=gruvbox&hide_border=true" />
           </a>
